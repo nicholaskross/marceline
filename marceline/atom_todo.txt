@@ -1,0 +1,4 @@
+#do: http://stackoverflow.com/questions/30006827/how-to-save-atom-editor-config-and-list-of-packages-installed (sync config, figure out way to automate all this/store it in gDrive.)
+
+#install: http://dmitrik.gotdns.org/ezcontactbook/
+#install: https://atom.io/packages/nvatom (maybe?)
